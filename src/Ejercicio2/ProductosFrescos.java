@@ -1,5 +1,5 @@
 package Ejercicio2;
 
-public class ProductosFrescos {
+public class ProductosFrescos extends Producto {
 
 }
